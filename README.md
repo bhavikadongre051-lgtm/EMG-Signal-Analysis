@@ -9,4 +9,4 @@ This project analyzes EMG (Electromyography) signals usimg digital signal proces
 * EMG envelope extraction using RMS
 
   # Tools
-  -python - Numpy -Matplotlin -Jupyter Notebook
+  -python - Numpy - Matplotlib - Jupyter Notebook
