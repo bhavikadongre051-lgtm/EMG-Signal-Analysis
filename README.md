@@ -1,5 +1,5 @@
 #  EMG Signal Analysis using Python
-This project analyzes EMG (Electromyography) signals usimg digital signal processing techniques.
+This project analyzes EMG (Electromyography) signals using digital signal processing techniques.
 
 # Features
 * Raw EMG signal visualization
